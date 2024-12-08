@@ -1,4 +1,4 @@
-### 🎓Data Analyst & Research Associate 
+### 🎓 Research & Marketing Analyst 
 
 <br>
 
