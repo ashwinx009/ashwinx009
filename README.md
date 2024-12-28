@@ -5,7 +5,9 @@
   <table>
   <tr>
     <td>
-I hold a BS in Mathematics with expertise in Statistics and Probability. I excel at transforming complex datasets into actionable insights. My experience spans across all stages of data analysis from Descriptive and Diagnostic to Predictive and Prescriptive Analytics. I have gained skills in developing and fine-tuning machine learning models. In addition to my technical abilities, I specialize in making complex information accessible through clear presentations, thorough research, and detailed reports.
+I hold a Bachelor of Science in Mathematics with a strong foundation in Statistics and Probability. I excel at transforming complex datasets into clear, actionable insights, guiding strategic decision-making processes. My expertise spans the full data analytics lifecycle, including Descriptive, Diagnostic, Predictive, and Prescriptive Analytics. With hands-on experience in developing and fine-tuning machine learning models, I am adept at extracting meaningful patterns from data. 
+      
+Beyond technical proficiency, I specialize in simplifying complex information through engaging presentations, in-depth research, and comprehensive reporting. With over a year of experience as a Data Analyst and Research Associate, I am committed to delivering high-quality, tailored solutions. Whether generating insightful reports, performing in-depth analysis, or designing interactive dashboards, I am dedicated to empowering businesses with actionable intelligence for efficient decision-making.
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" alt="Google Advanced Data Analytics Certificate" width="1000"/>
