@@ -1,13 +1,17 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 # 🎓 **Data Analyst | Research Associate**
 
-I hold a BS in Mathematics with a strong foundation in Statistics and Probability. I offer Data Analysis, Research, and Dashboard Services plus content development to streamline operations and deliver actionable insights. I specialize in research, content creation, data cleaning, exploratory data analysis (EDA), statistical analysis, and creating interactive dashboards using tools like MS Excel, Power BI, and Tableau. With over a year of experience as a Data Analyst and Research Associate, I ensure high-quality, tailored solutions for your business needs. Whether it's generating detailed reports, performing in-depth research, or building visually appealing dashboards, I’m here to help you make data-driven decisions efficiently.
+> I hold a BS in Mathematics with a strong foundation in Statistics and Probability. I offer Data Analysis, Research, and Dashboard Services plus content development to streamline operations and deliver actionable insights. I specialize in research, content creation, data cleaning, exploratory data analysis (EDA), statistical analysis, and creating interactive dashboards using tools like MS Excel, Power BI, and Tableau. With over a year of experience as a Data Analyst and Research Associate, I ensure high-quality, tailored solutions for your business needs. Whether it's generating detailed reports, performing in-depth research, or building visually appealing dashboards, I’m here to help you make data-driven decisions efficiently.
 
-- Happy Coder
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### **Languages & Tools:**
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="40%" alt="Cool GIF">
+  <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" width="35%" alt="Google Certification Badge">
+</p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
@@ -25,18 +29,10 @@ I hold a BS in Mathematics with a strong foundation in Statistics and Probabilit
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" alt="Tableau" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI" />
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
----
 
-## 📊 **Certifications**
-
-- 🎖️ **Google Advanced Data Analytics Certificate** ![Google Certification Badge](https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45)
-
----
-
-## 📫 **Connect with Me**
-
-<div>
+<div align="center">
 <a href="https://t.me/Ashwinx009" target="_blank" style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50" alt="Telegram" />
 </a>
@@ -49,16 +45,26 @@ I hold a BS in Mathematics with a strong foundation in Statistics and Probabilit
 <a href="https://www.linkedin.com/in/ashwinsinghx009/" target="_blank" style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="50" alt="LinkedIn" />
 </a>
-<a href="https://www.reddit.com/user/Aleric_saltsman/" target="_blank" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Reddit_icon.svg" height="50" alt="Reddit" />
-</a>
 
 </div>
 
----
 
-🌟 **Let's collaborate to turn data into impactful decisions! 🚀** 🌟
 
-**Feel free to explore my repositories and projects below.**
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
