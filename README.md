@@ -1,23 +1,10 @@
 # 🎓 **Data Analyst | Research Associate**
 
-I hold a **Bachelor of Science in Mathematics** with a strong foundation in **Statistics and Probability**. I excel at transforming complex datasets into **clear, actionable insights**, guiding strategic decision-making processes.
+I hold a BS in Mathematics with a strong foundation in Statistics and Probability. I offer Data Analysis, Research, and Dashboard Services plus content development to streamline operations and deliver actionable insights. I specialize in research, content creation, data cleaning, exploratory data analysis (EDA), statistical analysis, and creating interactive dashboards using tools like MS Excel, Power BI, and Tableau. With over a year of experience as a Data Analyst and Research Associate, I ensure high-quality, tailored solutions for your business needs. Whether it's generating detailed reports, performing in-depth research, or building visually appealing dashboards, I’m here to help you make data-driven decisions efficiently.
 
----
-
-## 🚀 **About Me**
-
-- 💼 Proficient in **Descriptive, Diagnostic, Predictive, and Prescriptive Analytics**.
-- 🤖 Experienced in developing and fine-tuning **Machine Learning models**.
-- 📊 Skilled in creating **engaging presentations**, in-depth research, and detailed reporting.
-- 📅 Over **1 year of experience** as a Data Analyst and Research Associate.
-
-Whether it's generating insightful reports, performing in-depth analysis, or designing **interactive dashboards**, I am committed to delivering **high-quality, tailored solutions** to empower businesses with **actionable intelligence**.
-
----
-
-## 🛠️ **Technical Skills**
-
-**✨ Data Querying  |  ✨ Data Analysis  |  ✨ Machine Learning  |  ✨ Research  |  ✨ Dashboards  |  ✨ Report Making  |  ✨ Documentation**
+- Happy Coder
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 
 ### **Languages & Tools:**
 
@@ -49,10 +36,23 @@ Whether it's generating insightful reports, performing in-depth analysis, or des
 
 ## 📫 **Connect with Me**
 
-<div align="center">
-  <a href="https://t.me/Ashwinx009" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50" alt="Telegram" /></a>
-  <a href="mailto:ashwinx009@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="50" alt="Email" /></a>
-  <a href="https://www.instagram.com/ashwinx009" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="50" alt="Instagram" /></a>
+<div>
+<a href="https://t.me/Ashwinx009" target="_blank" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50" alt="Telegram" />
+</a>
+<a href="mailto:ashwinx009@gmail.com" target="_blank" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="50" alt="Email" />
+</a>
+<a href="https://www.instagram.com/ashwinx009" target="_blank" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="50" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/ashwinsinghx009/" target="_blank" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="50" alt="LinkedIn" />
+</a>
+<a href="https://www.reddit.com/user/Aleric_saltsman/" target="_blank" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Reddit_icon.svg" height="50" alt="Reddit" />
+</a>
+
 </div>
 
 ---
