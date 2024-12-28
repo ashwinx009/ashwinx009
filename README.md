@@ -15,7 +15,7 @@ I hold a BS in Mathematics with expertise in Statistics and Probability. I excel
 
 <br>
 
-**✨Data Querying ✨Exploratory Data Analysis ✨Regression Models ✨Research ✨Dashboards**
+**✨Data Querying ✨Exploratory Data Analysis ✨Regression Models ✨Research ✨Dashboards ✨Report Making ✨Documentation**
 
 <br>
 
