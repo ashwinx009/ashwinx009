@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🎓 **Data Analyst | Research Associate**
 
 I hold a **Bachelor of Science in Mathematics** with a strong foundation in **Statistics and Probability**. I excel at transforming complex datasets into **clear, actionable insights**, guiding strategic decision-making processes.
