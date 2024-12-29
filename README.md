@@ -1,20 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="800" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="850" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ##  ` Data Analyst | Research Associate | Freelancer `
 #### I hold a BS in Mathematics with a strong foundation in Statistics and Probability. I specialize in research, content creation, data cleaning, exploratory data analysis (EDA), statistical analysis, and creating interactive dashboards using tools like MS Excel, Power BI, and Tableau. With over a year of experience as a Data Analyst and Research Associate, I ensure high-quality, tailored solutions for your business needs. Whether it's generating detailed reports, performing in-depth research, or building visually appealing dashboards, I’m here to help you make data-driven decisions efficiently.
 
-## Why Choose My Service?
 </div>
-
-#### 1. Project Management Expertise: Efficiently handles diverse projects with precision, ensuring timely and successful delivery through strong multitasking and prioritization skills.
-#### 2. Quality Assurance: Committed to delivering top-tier results by maintaining attention to detail and proactively addressing challenges to meet deadlines with excellence.
-#### 3. Client-Centric Approach: Adopts a flexible, collaborative approach to tailor solutions to each client’s unique needs, ensuring alignment with their objectives.
-#### 4. Effective Communication: Ensures clear and responsive communication, keeping clients informed and confident throughout the project lifecycle.
-
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <div align="center">
