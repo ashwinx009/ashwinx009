@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 #  **| Data Analyst | Research Associate | Freelancer |**
-## ` I hold a BS in Mathematics with a strong foundation in Statistics and Probability. I specialize in research, content creation, data cleaning, exploratory data analysis (EDA), statistical analysis, and creating interactive dashboards using tools like MS Excel, Power BI, and Tableau. With over a year of experience as a Data Analyst and Research Associate, I ensure high-quality, tailored solutions for your business needs. Whether it's generating detailed reports, performing in-depth research, or building visually appealing dashboards, I’m here to help you make data-driven decisions efficiently. `
+### ` I hold a BS in Mathematics with a strong foundation in Statistics and Probability. I specialize in research, content creation, data cleaning, exploratory data analysis (EDA), statistical analysis, and creating interactive dashboards using tools like MS Excel, Power BI, and Tableau. With over a year of experience as a Data Analyst and Research Associate, I ensure high-quality, tailored solutions for your business needs. Whether it's generating detailed reports, performing in-depth research, or building visually appealing dashboards, I’m here to help you make data-driven decisions efficiently. `
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <div align="center">
