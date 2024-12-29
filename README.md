@@ -1,9 +1,17 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="900" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-#  | 🌟**Data Analyst | 🌟Research Associate | 🌟Freelancer** |
+#  🌟**Data Analyst 🌟Research Associate 🌟Freelancer**
 
-> I hold a BS in Mathematics with a strong foundation in Statistics and Probability. I specialize in research, content creation, data cleaning, exploratory data analysis (EDA), statistical analysis, and creating interactive dashboards using tools like MS Excel, Power BI, and Tableau. With over a year of experience as a Data Analyst and Research Associate, I ensure high-quality, tailored solutions for your business needs. Whether it's generating detailed reports, performing in-depth research, or building visually appealing dashboards, I’m here to help you make data-driven decisions efficiently.
+I hold a BS in Mathematics with a strong foundation in Statistics and Probability. I specialize in research, content creation, data cleaning, exploratory data analysis (EDA), statistical analysis, and creating interactive dashboards using tools like MS Excel, Power BI, and Tableau. With over a year of experience as a Data Analyst and Research Associate, I ensure high-quality, tailored solutions for your business needs. Whether it's generating detailed reports, performing in-depth research, or building visually appealing dashboards, I’m here to help you make data-driven decisions efficiently.
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="30%" alt="Cool GIF">
+  <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" width="25%" alt="Google Certification Badge">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250">
+</p>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <div align="center">
@@ -24,14 +32,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI" />
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="30%" alt="Cool GIF">
-  <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" width="25%" alt="Google Certification Badge">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250">
-</p>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
