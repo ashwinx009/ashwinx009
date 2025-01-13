@@ -5,16 +5,7 @@
 ##  ` Research & Data Analyst  `
 </div>
 
-I hold a BS in Mathematics with a strong foundation in Statistics and Probability. with over a year of experience delivering advanced, data-driven solutions. I specialize in empowering businesses and professionals by streamlining operations, enhancing productivity, and enabling strategic decision-making. I offer a comprehensive suite of services, including:
-
-- **Research & Analysis**: Guiding strategic decisions through insightful data discovery.
-- **Data Cleaning & Extraction**: Ensuring accuracy and relevance for reliable outcomes.
-- **Exploratory Data Analysis (EDA)**: Revealing patterns and trends for actionable insights.
-- **Statistical Analysis & Modeling**: Applying robust methods for meaningful interpretations.
-- **Dashboard Creation**: Visualizing data through MS Excel, Power BI, and Tableau.
-- **Technical Writing & Content Creation**: Crafting engaging narratives and precise documentation.
-- **Machine Learning Models**: Building predictive tools for advanced analytics.
-- **KPI Development & Reporting**: Monitoring performance with structured insights.
+I hold a BS in Mathematics with a strong foundation in Statistics and Probability, coupled with over a year of experience delivering advanced, data-driven solutions. I specialize in empowering businesses and professionals by streamlining operations, enhancing productivity, and enabling strategic decision-making. My expertise spans a comprehensive suite of services, including guiding strategic decisions through insightful research and analysis, ensuring accuracy and relevance with data cleaning and extraction, uncovering patterns and trends through exploratory data analysis (EDA), applying robust methods for statistical analysis and modeling, visualizing data with MS Excel, Power BI, and Tableau, crafting engaging narratives and precise documentation through technical writing and content creation, building predictive tools for advanced analytics with machine learning models, and monitoring performance with structured insights via KPI development and reporting.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <div align="center">
