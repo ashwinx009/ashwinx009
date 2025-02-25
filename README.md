@@ -29,7 +29,7 @@ I hold a BS in Mathematics with a strong foundation in Statistics and Probabilit
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="30%" alt="Cool GIF">
-  <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" width="25%" alt="Google Certification Badge">
+  <img src="https://github.com/user-attachments/assets/7586484e-7b85-48e4-95f5-cdab7046bf45" width="30%" alt="Google Certification Badge">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250">
 </p>
 
