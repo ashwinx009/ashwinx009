@@ -41,7 +41,7 @@ I hold a BS in Mathematics with a strong foundation in Statistics and Probabilit
 <a href="mailto:ashwinx009@gmail.com" target="_blank" style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="50" alt="Email" />
 </a>
-<a href="[https://www.instagram.com/ashwinx009](https://www.instagram.com/___ashwinsingh/)" target="_blank" style="margin-right: 10px;">
+<a href="https://www.instagram.com/ashwinx009" target="_blank" style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="50" alt="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/ashwinsinghx009/" target="_blank" style="margin-right: 10px;">
