@@ -1,11 +1,5 @@
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="800" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-##  ` RESEARCHER & DATA ANALYST  `
-</div>
-
-I hold a BS in Mathematics with a strong foundation in Statistics and Probability, coupled with over a year of experience delivering advanced, data-driven solutions. I specialize in empowering businesses and professionals by streamlining operations, enhancing productivity, and enabling strategic decision-making. My expertise spans a comprehensive suite of services, including guiding strategic decisions through insightful research and analysis, ensuring accuracy and relevance with data cleaning and extraction, uncovering patterns and trends through exploratory data analysis, applying robust methods for statistical analysis and modeling, visualizing data with MS Excel, Power BI, and Tableau, crafting engaging narratives and precise documentation through technical writing and content creation, building predictive tools for advanced analytics with machine learning models, and monitoring performance with structured insights via KPI development and reporting.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <div align="center">
@@ -40,9 +34,6 @@ I hold a BS in Mathematics with a strong foundation in Statistics and Probabilit
 </a>
 <a href="mailto:ashwinx009@gmail.com" target="_blank" style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="50" alt="Email" />
-</a>
-<a href="https://www.instagram.com/ashwinx009" target="_blank" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="50" alt="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/ashwinsinghx009/" target="_blank" style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="50" alt="LinkedIn" />
